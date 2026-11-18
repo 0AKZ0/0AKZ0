@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá, eu sou Samuel Aguiar 👋
 
-<!--
-**0AKZ0/0AKZ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack com foco na criação de sistemas web, automações e interfaces modernas. Gosto de transformar necessidades reais em soluções práticas, organizadas e fáceis de usar.
 
-Here are some ideas to get you started:
+🌐 **Portfólio:** [samuelaguiar.discloud.app](https://samuelaguiar.discloud.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 💻 Desenvolvimento de aplicações web e sistemas de gestão
+- ⚙️ Automação de processos e integração de ferramentas
+- 🎨 Construção de interfaces e experiências de usuário
+- 📚 Sempre aprendendo e evoluindo como desenvolvedor
+
+## Tecnologias
+
+**Linguagens**  
+JavaScript · Python · PHP · HTML · CSS
+
+**Frontend**  
+React · Vite · Tailwind CSS
+
+**Backend**  
+Node.js · Express · Laravel · Django
+
+**Banco de dados e ferramentas**  
+MySQL · MariaDB · SQLite · MongoDB · Redis · Git · GitHub · Docker
+
+## Áreas de interesse
+
+- Sistemas de gestão empresarial e plataformas SaaS
+- Automação de tarefas e processos operacionais
+- APIs e aplicações Full Stack
+- Interfaces modernas, responsivas e funcionais
+
+## Contato
+
+- 🌐 [Portfólio](https://samuelaguiar.discloud.app)
+- 💻 [GitHub](https://github.com/0AKZ0)
+
+---
+
+*Aberto a oportunidades, projetos freelance e colaborações.*
