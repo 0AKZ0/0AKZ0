@@ -35,22 +35,28 @@ My current focus is building stronger foundations in software architecture, back
 - **Frontend engineering:** responsive interfaces, clear workflows and thoughtful UX.
 - **Automation:** reducing manual work through scripts and connected systems.
 
-## Featured project
+## Selected work
 
-### [ForgeOps — Full-stack Operations Platform](https://github.com/0AKZ0/Fullstack-Management-System)
+### [ForgeOps — Multi-tenant Operations Platform](https://github.com/0AKZ0/Fullstack-Management-System)
 
-A multi-tenant business operations platform built as an engineering-focused SaaS project.
+A multi-tenant SaaS foundation focused on tenant isolation, role-based access, project lifecycle rules and transactional audit events.
 
-**Engineering highlights**
-- Organization-aware access control and role-based permissions.
-- PostgreSQL data model with Prisma ORM.
-- Transactional audit events for important business operations.
-- Fastify + TypeScript API and React application.
-- Redis integration, Docker Compose and automated CI quality gates.
+**Stack:** TypeScript · Node.js · Fastify · React · PostgreSQL · Prisma · Redis · Docker  
+**Engineering focus:** server-side authorization, relational integrity, atomic writes, API contracts and CI.
 
-**Stack:** TypeScript · Node.js · Fastify · React · PostgreSQL · Prisma · Redis · Docker
+### [Modern Admin Dashboard](https://github.com/0AKZ0/Modern-Admin-Dashboard)
 
-[Explore the repository](https://github.com/0AKZ0/Fullstack-Management-System)
+A responsive React dashboard concept with KPI cards, revenue visualization, activity feed, project tracking, search filtering and mobile navigation. Uses clearly identified demonstration data.
+
+**Stack:** React 19 · Vite · Tailwind CSS 4 · Lucide  
+**Engineering focus:** reusable UI composition, responsive layout, state-driven filtering and production builds.
+
+### [Python Automation Lab](https://github.com/0AKZ0/Python-Automation-Lab)
+
+A dependency-free command-line toolkit for inspecting CSV files, cleaning and deduplicating records, and exporting data-quality reports locally.
+
+**Stack:** Python 3.10+ · Standard Library · unittest  
+**Engineering focus:** CLI design, deterministic data processing, validation and automated tests.
 
 ---
 
